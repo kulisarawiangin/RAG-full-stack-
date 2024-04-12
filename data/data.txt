@@ -1,5 +1,16 @@
-
-In round 2 applicant must currently studying or graduating from Mathayom 6, or currently studying in the final year or graduating from high school from abroad. or have a GED or equivalent qualification. Applicants who have taken the GED test from May 2017 onwards must take the GED test for a total of 4 subjects. Each subject must receive a score.
+In Olympic round applicant must currently studying in Mathayom 6 or equivalent.
+  Science and Technology learning subject group credits must be taken.
+  Basic courses and additional courses combined are not less than 22.00 credits.
+  Mathematics subject group credits Must study basic subjects
+and additional courses totaling not less than 12.00 credits.
+  Foreign language learning subject group credits Must study subjects
+Basic and additional courses combined are not less than 9.00 credits.
+  Cumulative grade point average (GPAX) for 5 semesters is not less than 3.00.
+  TGAT General Aptitude not less than 1.00 points
+  TPAT3 Aptitude for science, technology, engineering, not less than 1.00 points
+  Applicants for the project (NTF) must be those who have completed the Olympic Academic Camp training. Not less than Camp 1 from the IPST centers across the country in at least one field of mathematics, computers, chemistry, biology or physics.
+  Academic work history portfolio (Portfolio) or academic activities
+In round 1 and 2 applicant must currently studying or graduating from Mathayom 6, or currently studying in the final year or graduating from high school from abroad. or have a GED or equivalent qualification. Applicants who have taken the GED test from May 2017 onwards must take the GED test for a total of 4 subjects. Each subject must receive a score.
 At least 145 points
   Cumulative grade point average (GPAX) for 5 semesters or equivalent is not less than 2.50.
   Any one test score
@@ -19,3 +30,7 @@ Minimum score for A-Level Physics 1
 Minimum subject score General Aptitude (TGAT)1
 Minimum subject score Aptitude for Science, Technology, Engineering (TPAT3)1
 Minimum score for A-Level Applied Mathematics 1 (Basic + Additional)
+
+
+
+
